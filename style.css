@@ -419,8 +419,11 @@ hr{
     .cntctcontent{
         flex-direction: column;
     }
+    .cntctcontent .cntctcard{
+        margin-left: -30px;
+    }
     .cntctform{
-        margin-left: 27%;
+        margin-left: 10%;
         margin-top: 10%;
     }
     .cntctform .sendmsg{
@@ -440,7 +443,10 @@ hr{
         margin-right: 2rem;
     }
     #copy_right{
-        margin-left: 12vh;        
+        margin-left: 9vh;        
         font-size: 12px;
+    }
+    .cntctform input{
+        width: 30vh;
     }
 }
