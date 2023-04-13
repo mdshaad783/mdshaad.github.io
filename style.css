@@ -420,15 +420,18 @@ hr{
         flex-direction: column;
     }
     .cntctcontent .cntctcard{
-        margin-left: -30px;
+        margin-left: -70px;
+    }
+    .item a{
+        margin-top: 7px;
     }
     .cntctform{
         margin-left: 10%;
         margin-top: 10%;
     }
     .cntctform .sendmsg{
-        margin-left: 16%;
-        font-size: 10px;
+        margin-left: 17%;
+        font-size: 14px;
     }
     .social_media .social_text{
         font-size: 12px;
@@ -436,14 +439,14 @@ hr{
     }
     #contact .social_media{
 
-        margin-left:60px;
+        margin-left:30px;
     }
     #contact hr{
-        margin-left: 4rem;
+        margin-left: 2rem;
         margin-right: 2rem;
     }
     #copy_right{
-        margin-left: 9vh;        
+        margin-left: 5vh;        
         font-size: 12px;
     }
     .cntctform input{
