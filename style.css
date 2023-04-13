@@ -420,7 +420,10 @@ hr{
         flex-direction: column;
     }
     .cntctcontent .cntctcard{
-        margin-left: -70px;
+        margin-left: -100px;
+    }
+    .item{
+        width: 30vh;
     }
     .item a{
         margin-top: 7px;
@@ -446,7 +449,7 @@ hr{
         margin-right: 2rem;
     }
     #copy_right{
-        margin-left: 5vh;        
+        margin-left: 4vh;        
         font-size: 12px;
     }
     .cntctform input{
