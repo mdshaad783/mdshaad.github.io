@@ -387,14 +387,14 @@ hr{
         width: 170px;
     }
     #home #img{
-        margin-left: -25%;
+        margin-left: -24%;
     }
     #home #introtext{
         margin-left: 10px;
     }
 
     #introtext .button{
-        margin-left: 104px;
+        margin-left: 107px;
     }
     #about .aboutcontent{
         flex-direction: column;
@@ -414,7 +414,7 @@ hr{
     .skillsimages{
         display: flex;
         flex-direction: column;
-        margin-left: 70px;
+        margin-left: 72px;
     }
     .cntctcontent{
         flex-direction: column;
@@ -426,14 +426,14 @@ hr{
         width: 30vh;
     }
     .item a{
-        margin-top: 7px;
+        margin-top: 10px;
     }
     .cntctform{
         margin-left: 10%;
         margin-top: 10%;
     }
     .cntctform .sendmsg{
-        margin-left: 17%;
+        margin-left: 19%;
         font-size: 14px;
     }
     .social_media .social_text{
